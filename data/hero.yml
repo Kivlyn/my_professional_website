@@ -1,0 +1,14 @@
+---
+enable: true
+topTitle: Data Scientist in Power Utilities, Engineer & Corporate Strategist
+content: >
+  # Hi I'm Kivlyn
+
+  I help businesses make meaning of their data to improve their bottom line.
+
+buttonName: Contact Kivlyn
+buttonIcon: 'fa fa-envelope'
+buttonURL: "#contact"
+image: images/hero/user_picture_2.jpg
+#videoThumb: images/hero/data-science.gif
+#videoURL: https://www.youtube.com/watch?v=rJawNrD3xlU

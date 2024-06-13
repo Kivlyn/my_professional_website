@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kivlyn&#39;s Data Science Portfolio</title>
+    <link>//localhost:4321/</link>
+    <description>Recent content on Kivlyn&#39;s Data Science Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 May 2024 12:49:27 +0600</lastBuildDate>
+    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detection of Anomalous Customer Consumption Application</title>
+      <link>//localhost:4321/portfolio/project-01/</link>
+      <pubDate>Mon, 13 May 2024 12:49:27 +0600</pubDate>
+      <guid>//localhost:4321/portfolio/project-01/</guid>
+      <description>View Demo Dashboard Project Requirements ✅ Shiny Web Applications&#xA;✅ HTML and CSS&#xA;✅ Time Series Anomaly Detection using Machine Learning (Isolation Forest and Local Outlier Factor)</description>
+    </item>
+    <item>
+      <title>Markdown Formatting Demo</title>
+      <link>//localhost:4321/blog/markdown-formatting-demo/</link>
+      <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
+      <guid>//localhost:4321/blog/markdown-formatting-demo/</guid>
+      <description>This example Markdown file compliments of markdown-it.github.io&#xA;h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.&#xA;(c) (C) (r) (R) (tm) (TM) (p) (P) +-&#xA;test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.&#xA;!!!!!! ???? ,, &amp;ndash; &amp;mdash;&#xA;&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;&#xA;Emphasis This is bold text&#xA;This is bold text&#xA;This is italic text&#xA;This is italic text</description>
+    </item>
+    <item>
+      <title>Health Care Costs Forecast Application</title>
+      <link>//localhost:4321/portfolio/project-02/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      <guid>//localhost:4321/portfolio/project-02/</guid>
+      <description>View Dashboard Project Requirements ✅ Shiny Web Applications&#xA;✅ HTML and CSS&#xA;✅ Health Care Costs Forecast using Machine Learning (XGBoost)&#xA;✅ Geograhic Visualization</description>
+    </item>
+    <item>
+      <title>Product Price Recommendation</title>
+      <link>//localhost:4321/project-02_matt/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      <guid>//localhost:4321/project-02_matt/</guid>
+      <description>View Dashboard Project Requirements ✅ Shiny Web Applications&#xA;✅ HTML and CSS&#xA;✅ Product Gap Analysis using Machine Learning (XGBoost)</description>
+    </item>
+    <item>
+      <title>Sales Demand Forecast Application</title>
+      <link>//localhost:4321/project-01_matt/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      <guid>//localhost:4321/project-01_matt/</guid>
+      <description>View Demo Dashboard Project Requirements ✅ Shiny Web Applications&#xA;✅ HTML and CSS&#xA;✅ Sales Demand Forecast using Machine Learning (XGBoost)&#xA;✅ Geograhic Visualization</description>
+    </item>
+  </channel>
+</rss>

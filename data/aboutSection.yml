@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Who is Kivlyn?
+
+  Kivlyn Asante is a business problem solver with over 20+ years of experience working to produce organisational value.
+content: >
+  ### I  build impactful data products that help companies improve decision making with a positive impact on the bottom line.
+
+  I enjoy enabling data analysts and data scientists whenever possible. I believe in training and building people. In my spare time I enjoy getting closer to family.
+
+  My main focus is leveraging data science to benefit businesses. I create value for organisations by analysing the financial implications of challenges and delivering solutions that yield a positive return on investment. I find great fulfillment in continual learning, collaborating with stakeholders, and using data to drive improved decision-making.
+button1Name: LinkedIn
+button2Name: Download CV
+button1Target: https://www.linkedin.com/in/knasante/
+button2Target: "/cv/resume_knasante.pdf"
+image: images/hero/user_picture_2.jpg
+imageMaskPosition: 70px 0px

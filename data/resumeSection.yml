@@ -1,0 +1,147 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Experience & Education
+
+  Over 20+ years of experience working with people and data to produce organisational value.
+
+buttonName: "Download Resume PDF"
+buttonTarget: "/cv/resume-knasante.pdf"
+
+tab1Name: Experience
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
+
+
+experience:
+  - content: >
+      ### GENERAL MANAGER/CORPORATE PLANNING
+
+      ####  ELECTRICITY COMPANY OF GHANA
+
+      - Identified gap in work processes to improve detection of energy theft,
+        faulty metering and billing anomalies that led to the development of an
+        app.
+
+      - Reduced customer visits by revenue protection teams by 60% recovering
+        GHS 300 million in revenue.
+
+      - Used time series anomaly detection to reduce number of customers
+        visited by 90%.
+
+      -	Developed and implemented strategy reporting system saving the company USD 98,800 in annual software maintenance fees.
+
+      -	Delivered business strategy to drive revenue and operational efficiencies. Demurrage reduced by 75.73%. (from GHS 39.2 million as at December 2020 to GHS 9.92 million as at August 2023).
+
+      -	Played key role in the creation of the Company's Project Management Office.
+
+      -	Helped in reducing overtime from 7% in January 2022 to 4.5% in June 2023.
+
+      -	Helped to ensure that projects completed met project management standards (85%).
+
+      -	Bank charges reduced from GHS 1.4 million in 2021 to GHS 226,000 in June 2023.
+
+      - GHS 3.5 million generated from Training Centre since 2021 and GHS 7.6 million from Engineering since 2020.
+
+      -	Led in the development of the current 2021 – 2024 corporate strategy. Currently leading the monitoring of the corporate strategy.
+
+      -	Took principal role in the development and execution of corporate strategy using the Balanced Scorecard methodology 2018 - 2020.
+    time: 2014-Present
+  - content: >
+      ### SECTIONAL MANAGER/RESEARCH & DEVELOPMENT
+
+      ####  ELECTRICITY COMPANY OF GHANA
+
+      -	Developed application software using VBA and Microsoft Access for transformer monitoring which reduced man-hours by 20% and transformer burnouts by 5%.
+
+      -	Performed root cause analysis on single core underground cable failures. This led to 90% reduction in cable failures and costs of replacing more than 100 km of cables.
+
+      -	Developed application software using VBA and Microsoft Access for switching operations which reduced outages by 10%.
+
+      -	Improved substation grounding systems which increased personnel safety and improved correct functioning of protective equipment.
+
+      -	Researched into pole mounted transformer failures and produced a solution that reduced failures by 10% of existing installations. All new installations now use the new approach with zero failures.
+
+      -	Developed methodology for the estimation of the Weighted Average Cost of Capital (WACC) for the company. This served as the foundation for the Public Utilities Regulatory Commission’s guidelines on WACC development for utilities.
+
+      -	Technical lead for the review and update of ECG's design guidelines and equipment specifications by Parsons Brinkerhoff (PB) Power. This led to the company’s standards being internationally recognised.
+
+      -	Mentored engineering team members on electricity demand forecasting.
+    time: 2007-2014
+
+  - content: >
+      ### SENIOR ELECTRICAL ENGINEER
+
+      #### ELECTRICITY COMPANY OF GHANA
+
+      -	Worked as Project Engineer coordinating activities for reduction of system losses (technical and commercial) in ECG's Distribution Network.
+
+      -	Installed, commissioned, tested, calibrated during replacement of meters for Bulk Supply Points (BSPs), industrial and domestic customers. This included loss studies, project proposals for remedial action and project implementation.
+
+      -	Responsible for management of Special Load Tariff Customers in Volta, Central & Eastern Regions.
+
+      -	Supervised technical aspects of electrical work on projects, checking system performance, safety and compatibility against benchmarks.
+
+      -	Delivered projects on time and within budget following clearly defined work scopes and matching code requirements.
+    time: 2005-2007
+
+  - content: >
+      ### ELECTRICAL ELECTRICAL ENGINEER
+
+      #### ELECTRICITY COMPANY OF GHANA
+
+      -	Developed various application softwares using VBA and Microsoft Access. These softwares include switching operations which reduced outages by 10%, meter management which reduced man-hours by 50%, revenue collection which increased revenue collection by more than 100% consistently for 3 months.
+
+      -	Awarded best worker in Volta Region and overall ECG best worker for ECG in 2005 for outstanding improvement in revenue collection.
+
+      -	Prepared business plan for metering activities.
+
+      -	Installed, commissioned, tested, calibrated during replacement of meters for Bulk Supply Points (BSPs) , industrial and domestic customers.
+
+      -	Supervised technical aspects of electrical work on projects, checking system performance, safety and compatibility against benchmarks.
+
+      -	Delivered projects on time and within budget following clearly defined work scopes and matching code requirements.
+    time: 2002-2005
+
+  - content: >
+      ### ASSISTANT ELECTRICAL ENGINEER
+
+      #### ELECTRICITY COMPANY OF GHANA
+
+      -	Developed an excel based system that helped in project costing using VBA which reduced man-hours by 60%.
+
+      -	Power System Planning and Design.
+
+      -	Carried out project appraisals.
+
+      -	Submitted project proposals for Distribution System Upgrade and Extension and its implementation.
+
+      -	Carried out feasibility studies for new technical developments.
+
+      -	Operations, Maintenance and Protection and Control activities in Electrical Power System network.
+    time: 1997-2002
+
+
+
+
+
+education:
+  - content: >
+      #### Doctorate of Finance (DF)
+
+      SMC University, Switzerland
+
+    time: 2013-2018
+  - content: >
+      #### Master of Business Administration (MBA)
+
+      Coventry University, UK
+
+    time: 2011-2012
+  - content: >
+      #### Master of Science in Electrical Engineering
+
+      Kharkov State Technical University, Ukraine
+    time: 1990-1996
